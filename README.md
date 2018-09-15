@@ -17,3 +17,9 @@
 
 ## Covariance
     \(Cov(x,y) = \frac{1}{n - 1} \sum\limits_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y}) \)
+
+## Z-score
+### Population
+    \(z = \frac{x_i - \mu}{\sigma} \)
+### Sample
+    \(z = \frac{x_i - \bar{x}}{s} \)
