@@ -1,7 +1,7 @@
 # StatsLaTeX
 
 ## Mean
-\(\bar{x} = {\frac{1}{n} \sum\limits_{i=1}^{n} x_i }\)
+    \(\bar{x} = {\frac{1}{n} \sum\limits_{i=1}^{n} x_i }\)
 
 ## Variance
 ### Population
